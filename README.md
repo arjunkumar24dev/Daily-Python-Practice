@@ -1,2 +1,2 @@
 # Daily-Python-Practice
-My Daily progress in Python
+My daily progress in Python 
