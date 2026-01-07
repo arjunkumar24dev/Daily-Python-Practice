@@ -1,6 +1,8 @@
+# Day 2: Palindrome
 # Write a Python program to check whether a given number is a palindrome
 
 num = input("Enter the number:")
+
 # Reverse number
 reverse_num = num[::-1]
 
