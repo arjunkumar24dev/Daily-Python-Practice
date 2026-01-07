@@ -1,4 +1,4 @@
-# Day 2: Palindrome
+# Day 02: Palindrome
 # Write a Python program to check whether a given number is a palindrome
 
 num = input("Enter the number:")
