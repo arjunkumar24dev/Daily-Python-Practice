@@ -1,6 +1,7 @@
 # Day 1 : Animal kingdom Classifier
 
 animal = input("Enter an animal name:").lower()
+
 if animal == "human" or animal == "ape":
   print("category : Mammal")
 elif animal == "eagle" or animal == "parrot":
