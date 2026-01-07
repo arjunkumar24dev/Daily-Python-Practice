@@ -1,4 +1,4 @@
-# Day 3: Basic Number Checks 
+# Day 03: Basic Number Checks 
 #---------------------------------------------
 # Program 1: Check if a number is even or odd
 # Program 2: Check number type
