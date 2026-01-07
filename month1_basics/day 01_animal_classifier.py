@@ -1,4 +1,4 @@
-# Day 1 : Animal kingdom Classifier
+# Day 01 : Animal kingdom Classifier
 
 animal = input("Enter an animal name:").lower()
 
