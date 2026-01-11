@@ -1,1 +1,10 @@
-# Day 7(A) - Count Digits
+# Day 7(A) : Count Digits
+
+num = int(input("Enter a number: "))
+count= 0
+
+while num != 0:
+  num //= 10
+  count += 1
+
+print ( "Total Digits: ", count)
